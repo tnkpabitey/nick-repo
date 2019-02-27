@@ -2,8 +2,7 @@
 BowlingScore.py
 v 1.0
 Feb-20-2019
-By: Brook Amlaku [brookwork24@gmail.com]
-Client: Tetteh Narh
+By: Nick Kpabitey [tnkpabitey@gmail.com]
 """
 
 
